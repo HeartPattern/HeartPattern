@@ -30,7 +30,7 @@ My name is YeonJun Hong, using HeartPattern as nickname. Currently working on Ch
 
 # 💼 Career
 
-- [🪖 💼 ChuneungIT as Researcher (2021.07~ )](https://smartdoctor.cc)
+- [🪖 💼 ChuneungIT as Developer/Part manager (2021.07~ )](https://smartdoctor.cc)
 - [YouTube Creator Town 2021 by YouTube Korea as DevOps (2021.03 ~ 2021.10)](https://youtu.be/SpZ9aXkREkk)
 - [Youtube Creator Town 2020 by YouTube Korea as Development team leader (2020.06 ~ 2020.12)](https://youtu.be/DdP3zVJpIxQ)
 - [Twitch Partnership Party 2020 by Twitch Korea as Developer (2020.08 ~ 2020.12)](https://www.facebook.com/watch/?v=304911230953914)
