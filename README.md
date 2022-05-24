@@ -1,6 +1,6 @@
 # 🙋🏻 Hi! This is HeartPattern's profile
 
-My name is YeonJun Hong, using HeartPattern as nickname. Currently working on ChuneungIT in South Korea as an alternative military service.
+My name is YeonJun Hong, using HeartPattern as nickname. Currently working as an alternative military service.
 
 [📘 Portfolio](https://www.notion.so/heartpattern/0929eb924dfc4273b41e0bfc8ada1e29)
 
