@@ -45,4 +45,5 @@ My name is YeonJun Hong, using HeartPattern as nickname. Currently working as an
 [![heartpattern@heartpattern.io](https://img.shields.io/badge/e--mail-heartpattern%40heartpattern.io-yellow)](mailto:heartpattern@heartpattern.io)
 [![YeonJun Hong](https://img.shields.io/badge/linked%20in-YeonJun%20Hong-blue)](https://www.linkedin.com/in/yeonjun-hong-07b618118/)
 [![@heartpattern](https://img.shields.io/badge/RocketPunch-YeonJun%20Hong-blue)](https://www.rocketpunch.com/@heartpattern)
+[![Portfolio](https://img.shields.io/badge/notion-Portfolio-green?style=plastic&logo=notion)](https://www.notion.so/heartpattern/0929eb924dfc4273b41e0bfc8ada1e29)
 
