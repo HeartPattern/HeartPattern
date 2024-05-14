@@ -1,7 +1,3 @@
-# 🙋🏻 Hi! This is HeartPattern's profile
-
-My name is YeonJun Hong, using HeartPattern as nickname. Currently working as an alternative military service.
-
 # 📈 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HeartPattern&theme=blue-green)
