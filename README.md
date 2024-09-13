@@ -26,7 +26,7 @@
 
 # 💼 Career
 
-- [🪖💼 ScatterLab Pingpong team as Backend Engineer (2022.05 ~ )](https://team.luda.ai)
+- [ScatterLab Pingpong team as Backend Engineer (2022.05 ~ 2024.09)](https://team.luda.ai)
 - [ChuneungIT as Developer/Part manager (2021.07 ~ 2022.05)](https://smartdoctor.cc)
 - [YouTube Creator Town 2021 as DevOps Engineer (2021.03 ~ 2021.10)](https://youtu.be/SpZ9aXkREkk)
 - [Youtube Creator Town 2020 as Development team leader (2020.06 ~ 2020.12)](https://youtu.be/DdP3zVJpIxQ)
