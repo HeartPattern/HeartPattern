@@ -25,7 +25,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 # 💼 Career
-- [Viva republica (Toss) as Devops engineer (2024.09 ~)](https://toss.im)
+- [💼 Viva Republica (Toss) as Devops engineer (2024.09 ~ )](https://toss.im)
 - [ScatterLab Pingpong team as Backend Engineer (2022.05 ~ 2024.09)](https://team.luda.ai)
 - [ChuneungIT as Developer/Part manager (2021.07 ~ 2022.05)](https://smartdoctor.cc)
 - [YouTube Creator Town 2021 as DevOps Engineer (2021.03 ~ 2021.10)](https://youtu.be/SpZ9aXkREkk)
